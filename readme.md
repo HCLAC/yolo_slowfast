@@ -30,7 +30,12 @@
    git clone https://github.com/wufan-tb/yolo_slowfast
    cd yolo_slowfast
    ```
-
+1.1 安装PytorchVideo:
+   ```
+   git clone https://gitee.com/YFwinston/pytorchvideo.git
+   cd pytorchvideo
+   pip install -e .
+   ```
 2. create a new python environment (optional):
 
    ```
